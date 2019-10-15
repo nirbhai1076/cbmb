@@ -106,3 +106,4 @@ venv.bak/
 # IDE
 .vscode
 local.py
+db.sqlite3
